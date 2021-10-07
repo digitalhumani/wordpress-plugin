@@ -1,2 +1,2 @@
 # wordpress-plugin
-The official Wordpress plug-in for DigitalHumani's RaaS (Reforestation-as-a-Service) API
+This is currently a stub for a WordPress plugin that is in the early stages of planning.
